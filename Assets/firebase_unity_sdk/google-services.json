@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "824351023027",
+    "firebase_url": "https://ip-2-2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ip-2-2",
+    "storage_bucket": "ip-2-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824351023027:android:9cac3ed33da31ac47135c6",
+        "android_client_info": {
+          "package_name": "IP2.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFwOCD96p3B4y2xZGGEGFs2gkamBy8DMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824351023027:android:4adaf798952553647135c6",
+        "android_client_info": {
+          "package_name": "com.ip2.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFwOCD96p3B4y2xZGGEGFs2gkamBy8DMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
